@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.header {
+  @apply container w-4 h-4;
+}/*# sourceMappingURL=main.css.map */
